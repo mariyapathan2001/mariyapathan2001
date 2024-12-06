@@ -1,38 +1,33 @@
 <h1 align="center">Hi 👋, I'm Mariya Pathan</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
     
 # 🧕 About Me:
 
 <p align="left">
- A passionate Web Developer with a strong background in front-end technologies like HTML, CSS, and JavaScript. I have experience in creating dynamic and responsive web applications and have worked with tools like React.js and Python. I also have a keen interest in UX/UI design, utilizing tools like Figma and Canva to enhance user experiences.
+ A passionate Web Developer with a strong background in front-end technologies like HTML, CSS, and JavaScript. I have experience in creating dynamic and responsive web applications and have worked with tools like React.js, Python, SQL, and Django. 
   <br><br>
-  My skills extend to digital content creation, SQL, web scraping, and a solid understanding of networking fundamentals and ethical hacking. I thrive in collaborative environments and am eager to learn and grow in the ever-evolving tech landscape.
+  My expertise lies in developing scalable web solutions with seamless back-end integration using Django and SQL. I thrive in collaborative environments, eager to learn and grow in the ever-evolving tech landscape.
   <br><br>
   Let's connect and collaborate!
 </p>
- </div>
- 
-  
+
 * 🌟 I’m a passionate Web Developer focused on creating dynamic web experiences.
 
-* 🎨 I create engaging digital content that captivates and informs
+* 🌐 Skilled in Python, SQL, and Django for building robust and efficient web solutions.
 
-* 🌐 I’m knowledgeable in the networking sector, including fundamentals and security
-
-* 👨‍💻 All of my projects are available at (https://sayemashaikhportfolio.netlify.app/)
-
-📚 Education: Bachelor's in Electronics and Computer Science
+📚 Education: Bachelor's in Electronics and Telecommunication
 
 📍 Location: Mumbai, Maharashtra.
 
-📫 How to reach me **sayema.shaikh02@gmail.com**
+📫 How to reach me **pathanmariya77@gmail.com**
+
 
 # 🤝 Connect with me:
 <div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
-  <a href="https://linkedin.com/in/sayema-shaikh-49665921" target="_blank" style="margin: 10px;">
+  <a href="linkedin.com/in/mariya-pathan-148a91181" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="pulse" style="animation: pulse 1s infinite;">
   </a>
-  <a href="mailto:sayema.shaikh02@gmail.com" target="_blank" style="margin: 10px;">
+  <a href="mailto:pathanmariya77@gmail.com" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" class="bounce" style="animation: bounce 2s infinite;">
   </a>
 </div>
@@ -65,17 +60,33 @@ Led full-stack development and mentored a team to deliver dynamic, user-centric 
 
 
 # 🖥️ My Work:
-### 🌐 LEAP WEBSITE  
-HTML, CSS, JS – Company overview, services, team, courses, testimonials, and contact. Fully responsive.
+### 📟 Biometric Attendance System  
+- Designed an attendance system using Arduino.  
+- Incorporated a fingerprint sensor module for secure identification.  
+- Streamlined attendance tracking with real-time authentication.  
 
+### 🖥️ COVID Registration System  
+- Created a registration system using HTML, CSS, JavaScript, and PHP.  
+- Developed an intuitive user interface for easy registration.  
+- Implemented backend logic for data management and storage.  
+
+### 🤖 Military Surveillance Robot  
+- Developed a surveillance robot using Arduino.  
+- Integrated ultrasonic, infrared, smoke, and GPS sensors for precise monitoring and navigation.  
+- Enhanced functionality for real-time data collection and situational awareness.  
+
+### 🤖 Automated Surveillance Robot  
+- Built an automated robot using Arduino.  
+- Equipped with ultrasonic and infrared sensors for autonomous surveillance.  
+- Focused on efficient obstacle detection and avoidance mechanisms.  
 
 
 # 🔖 Certificates:
 
-* 🎓 [Advanced C++ Course Online](https://simpli-web.app.link/e/oIdldiHV5Mb)
-* 🔐 [Introduction to Ethical Hacking](https://www.mygreatlearning.com/certificate/DMRBIHPX)
-* 📈 [SEBI Investor Certification Examination](https://rb.gy/95uehx)
-* 🏆 [Eureka 2023 Semifinalist Certification](https://shorturl.at/YmWds)
+* 🛡️ TCS iON Cyber-Security Awareness Program (Dec 2022 - Dec 2023)  
+* 📊 HP LIFE Data Science and Analytics (Dec 2023 - Jan 2024)  
+* 🌟 HP LIFE Effective Leadership (Dec 2023 - Jan 2024)  
+* 🚀 HP LIFE Starting a Small Business (Dec 2023 - Jan 2024)
 
 
 <p>
