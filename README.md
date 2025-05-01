@@ -90,19 +90,19 @@ Led full-stack development and mentored a team to deliver dynamic, user-centric 
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayemashaikh&show_icons=true&locale=en&layout=compact&theme=dark" alt="sayemashaikh" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariyapathan2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="m" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayemashaikh&show_icons=true&locale=en&theme=dark" alt="sayemashaikh" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariyapathan2001&show_icons=true&locale=en&theme=dark" alt="mariyapathan" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayemashaikh&theme=dark" alt="sayemashaikh" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariyapathan2001&theme=dark" alt="mariyapathan" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sayemashaikh&theme=darkhub" alt="sayemashaikh" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mariyapathan2001&theme=darkhub" alt="mariyapathan" />
   </a>
 </p>
